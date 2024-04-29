@@ -1,0 +1,4 @@
+repository "Mosaic@Menguci@cloud"
+  path "/"
+    br "/main"
+    co "/main"
